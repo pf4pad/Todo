@@ -1,3 +1,7 @@
 *, ::after, ::before {
     box-sizing: border-box;
 }
+.item-done{
+    font-style: oblique;
+    text-decoration: line-through;
+}
